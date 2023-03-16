@@ -36,7 +36,7 @@ Moreover, the respondents also ranked the intensity of their feelings of anxiety
 
 <br>
 
-__To get  deep detailed of my EDA Analysis Visited to my __Music_Therapy_EDA.__ __
+__To get  deep detailed of my EDA Analysis Visited to my Music_Therapy_EDA.ipynb__
 
 
 <br>
